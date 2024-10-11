@@ -1,0 +1,207 @@
+{
+    "2024_October_10": {
+        "Themes": [
+            {
+                "Theme": "Armed conflicts and attacks",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Israel–Hamas war",
+                        "Headlines": [
+                            {
+                                "Headline": "Israeli invasion of the Gaza Strip",
+                                "Details": "Attacks on schools during the Israeli invasion of Gaza An Israeli strike on a school sheltering displaced people in Gaza kills 28 people and injures 54 others."
+                            },
+                            {
+                                "Headline": "Military aid to Israel during the Israel–Hamas war",
+                                "Details": "Chancellor of Germany Olaf Scholz announces plans for Germany to supply Israel with a new shipment of weapons, and that the German government has agreed to continue shipments for at least the near future."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Israel–Hezbollah conflict",
+                        "Headlines": [
+                            {
+                                "Headline": "2024 Israeli invasion of Lebanon",
+                                "Details": "An Israeli Merkava tank opens fire on a UNIFIL checkpoint in southern Lebanon , injuring two peacekeepers . Israeli troops also open fire on two other UN positions near the Blue Line , although no casualties are reported."
+                            },
+                            {
+                                "Headline": "Israeli",
+                                "Details": "At least 22 people are killed in  airstrikes on two different areas in central Beirut , Lebanon."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Sudanese civil war",
+                        "Headlines": [
+                            {
+                                "Headline": "October 2024 Sudan airstrikes",
+                                "Details": "Sudanese human rights group Emergency Lawyers reports that over 500 Sudanese civilians have been killed in airstrikes conducted by the Sudanese Armed Forces on multiple civilian areas held by the Rapid Support Forces ."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Insurgency in Balochistan",
+                        "Headlines": [
+                            {
+                                "Headline": "coal mine",
+                                "Details": "At least twenty miners are killed and seven others are injured in an attack by unknown armed militants on a private  in Duki District , Balochistan , Pakistan ."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Russo–Ukrainian war",
+                        "Headlines": [
+                            {
+                                "Headline": "World Bank",
+                                "Details": "The  approves a new financial intermediary fund consisting of grants from the United States , Japan , Canada , and other countries coupled with interest from frozen Russian assets to give to Ukraine as part of a $ 50 billion loan."
+                            },
+                            {
+                                "Headline": "Coordination Headquarters for the Treatment of Prisoners of War",
+                                "Details": "Ukraine's  confirms the death of journalist Victoria Roshchyna who had been held prisoner by Russia since August 2023."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Arts and culture",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Nobel Prize in Literature",
+                        "Headlines": [
+                            {
+                                "Headline": "Nobel Prize",
+                                "Details": "This year's  in Literature is awarded to South Korean writer Han Kang \"for her intense poetic prose that confronts historical traumas and exposes the fragility of human life”."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Disasters and accidents",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Mollie Kathleen Gold Mine",
+                        "Headlines": [
+                            {
+                                "Headline": "Mollie Kathleen Gold Mine",
+                                "Details": "One person is killed and twelve others are trapped when an elevator fails at the  in Cripple Creek , Colorado , United States ."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Health and environment",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "2024 Atlantic hurricane season",
+                        "Headlines": [
+                            {
+                                "Headline": "tornadoes",
+                                "Details": "At least ten people are killed in damages by  caused by Hurricane Milton in Florida , United States."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Living Planet report",
+                        "Headlines": [
+                            {
+                                "Headline": "Living Planet report",
+                                "Details": "In its annual  , the World Wildlife Fund estimates that wild populations of animal species have decreased over 70% since 1970, with some high-biodiversity areas seeing up to 95% declines."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "International relations",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Israel–Italy relations",
+                        "Headlines": [
+                            {
+                                "Headline": "Italian",
+                                "Details": "Prime Minister Giorgia Meloni summons the Israeli ambassador to Italy after Israeli forces target bases manned by Italian peacekeepers in southern Lebanon ."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Law and crime",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Capital punishment in Malaysia",
+                        "Headlines": [
+                            {
+                                "Headline": "Federal Court of Malaysia",
+                                "Details": "The  commutes the death sentence of Azilah Hadri, one of Altantuyaa's murderers, to 40 years imprisonment."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Palestinian",
+                        "Headlines": [
+                            {
+                                "Headline": "Palestinian",
+                                "Details": "Multiple  , Dutch , and Jewish human rights organizations sue the Dutch government for exporting weapons and military goods to Israel , thereby allegedly failing to prevent violations of the Genocide Convention and other war crimes in the Gaza Strip ."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Politics and elections",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "War crimes in the Israel–Hamas war",
+                        "Headlines": [
+                            {
+                                "Headline": "United Nations",
+                                "Details": "human rights investigators accuse Israel of crimes against humanity and the crime of extermination by deliberately targeting health facilities and medical personnel in Gaza."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Science and technology",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Tomb of Christopher Columbus",
+                        "Headlines": [
+                            {
+                                "Headline": "University of Granada",
+                                "Details": "Researchers from the  confirm that bones lying in the Seville Cathedral in Seville , Andalusia , Spain , belonged to Christopher Columbus ."
+                            }
+                        ]
+                    },
+                    {
+                        "Sub-Theme": "Internet Archive",
+                        "Headlines": [
+                            {
+                                "Headline": "Internet Archive",
+                                "Details": "The  and the Wayback Machine are taken offline following a denial-of-service attack , with the hackers also stealing 31 million password hashes in a data breach ."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Theme": "Sports",
+                "Sub-Themes": [
+                    {
+                        "Sub-Theme": "Erling Haaland",
+                        "Headlines": [
+                            {
+                                "Headline": "Erling Haaland",
+                                "Details": "becomes the all-time top goalscorer of the Norway national football team with 34 goals in the last 36 matches, beating Jørgen Juve 's 1934 record of 33 goals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
